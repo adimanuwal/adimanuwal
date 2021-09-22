@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @adimanuwal.
-- 👀 I’m interested in dark matter, intergalactic medium, and neutral hydrogen in the interstellar medium of galaxies.
+- 👋 Hi, I’m Aditya Manuwal.
 - 🌱 I’m currently pursuing a PhD in astrophysics.
+- 👀 I’m interested in dark matter, intergalactic medium, and neutral hydrogen in the interstellar medium of galaxies.
 - 📫 You can contact me at aditya.manuwal@icrar.org
 
 <!---
