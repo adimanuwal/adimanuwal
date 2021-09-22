@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aditya Manuwal.
-- 🌱 I’m currently pursuing a PhD in astrophysics.
+- 🌱 I’m currently pursuing a PhD in astrophysics at the International Centre for Radio Astronomy Research, The University of Western Australia.
 - 👀 I’m interested in dark matter, intergalactic medium, and neutral hydrogen in the interstellar medium of galaxies.
 - 📫 You can contact me at aditya.manuwal@icrar.org
 
