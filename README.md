@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aditya Manuwal.
 - 🌱 I have a PhD in astrophysics from the International Centre for Radio Astronomy Research, The University of Western Australia.
-- 👀 I’m interested in dark matter, intergalactic medium, and neutral hydrogen in the interstellar medium of galaxies.
+- 👀 I’m interested in dark matter, inter-/circum-galactic medium, intracluster light, and galaxy evolution.
 - 📫 You can contact me at aditya.manuwal@research.uwa.edu.au.
 
 <!---
