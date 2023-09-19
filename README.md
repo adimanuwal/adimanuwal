@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aditya Manuwal.
-- 🌱 I have a PhD in astrophysics from the International Centre for Radio Astronomy Research, The University of Western Australia.
+- 🌱 I completed my PhD from the International Centre for Radio Astronomy Research, The University of Western Australia.
 - 👀 My research interests include dark matter, inter-/circum-galactic medium, intracluster light, and galaxy evolution.
 - 📫 You can contact me at aditya.manuwal@research.uwa.edu.au.
 
